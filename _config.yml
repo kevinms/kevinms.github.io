@@ -1,8 +1,8 @@
 # Site Settings
-title: My Resume
+title: Kevin's Resume
 url: 'https://kevinms.github.io'
 baseurl: '/' #change it according to your repository name
-about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+#about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -17,16 +17,13 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Kevin M. Smith
 tagline: Software Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Seeking a challenging full time position in the field of Computer Science applying problem solving and team skills.'
 
 #sidebar links
 email: ksmith.nop@gmail.com
 phone: 012 345 6789
 website: blog.example.com #do not add http://
-linkedin: kevinms
+linkedin: kevin-smith-936992b # https://www.linkedin.com/in/kevin-smith-9369992b/
 github: kevinms
 #twitter: '@kevinms'
 #Update all the sections by editing the files inside _data folder.
